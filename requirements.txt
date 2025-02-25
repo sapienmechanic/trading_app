@@ -1,0 +1,12 @@
+tensorflow==2.15
+yfinance
+numpy
+pandas
+matplotlib
+dash
+plotly
+requests
+beautifulsoup4
+ratelimit
+selenium
+scikit-learn
